@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @BuiQuang26
+- 👻 Thanks for visiting
+
+![image](https://i.pinimg.com/originals/ee/b8/a5/eeb8a5a275a674dff32da4b84ec6ca65.gif)
 
 <!---
 BuiQuang26/BuiQuang26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
